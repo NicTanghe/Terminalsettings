@@ -42,6 +42,10 @@
         {
             "acrylicOpacity": 0.69999999999999996,
             "colorScheme": "Dracula",
+            "font": 
+            {
+                "face": "CaskaydiaCove Nerd Font Mono"
+            },
             "padding": "40, 30, 8, 8",
             "useAcrylic": true
         },
